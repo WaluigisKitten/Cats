@@ -1,0 +1,135 @@
+/* CSS Document */
+/*
+font-family: 'Bebas Neue', cursive;
+font-family: 'Darumadrop One', cursive;
+font-family: 'Sigmar', cursive;
+font-family: 'Special Elite', cursive;
+*/
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Darumadrop+One&family=Sigmar&family=Special+Elite&display=swap');
+
+.mainbody {
+	background-color: #5C3317;
+}
+
+.mainh1 {
+	text-align: center;
+	font-size: 4em;
+	font-family: 'Special Elite', cursive;
+	color: white;
+	margin: 0 auto;
+}
+.mainh1pt2 {
+	text-align: center;
+	font-size: 2em;
+	font-family: 'Bebas Neue', cursive;
+	color: white;
+	margin-left: 20%;
+	margin-top: 0;
+}
+table {
+	background-color: #804720;
+	margin: 0% auto;
+	margin-top: 3%;
+	width: 80%;
+}
+.imgnav {
+	margin-left: 33%;
+}
+main {
+	background-color: #804720;
+}
+.mainh1content {
+	text-align: left;
+	color: #E76A1A;
+	font-size: 2em;
+	font-family: 'Sigmar', cursive;
+}
+
+p {
+	text-align: left;
+	font-size: 1.5em;
+	color: #F7A26C;
+}
+
+main img {
+	float: right;
+	border: 10 px double black;
+}
+
+.historytitle {
+	text-align: left;
+	color: #E76A1A;
+	font-size: 2em;
+	font-family: 'Sigmar', cursive;
+}
+
+.cat2 {
+	margin-right: 18%;
+	border: 10px double black;
+}
+
+.disctitle {
+	text-align: left;
+	color: #E76A1A;
+	font-size: 2em;
+	font-family: 'Sigmar', cursive;
+}
+
+.cat3 {
+	border: double 10px black;
+}
+
+.cat4 {
+	border: double 10px black;
+}
+
+.temptitle {
+	text-align: center;
+	color: #E76A1A;
+	font-size: 2em;
+	font-family: 'Sigmar', cursive;
+}
+
+.news {
+	color:#CCAF9D;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.fNav {
+	width: 100%;
+	background-color: #00000088;
+	min-height: 50px;
+	text-align: center;
+	color: white;
+}
+
+.fNav ul {
+	display: block;
+	padding-top: .5em;
+}
+
+.fNav ul li {
+	display: inline-block;
+	width: 8%;
+	list-style-type: none;
+	padding: 0 0%;
+	margin: 1%; 
+}
+
+.fNav a {
+	text-decoration: none;
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.fNav a:hover {
+	text-decoration: none;
+	color: black;
+	width: 60%;
+	border: 2px solid #000000;
+	padding: .5em .5em;
+	background-color: white;
+}
